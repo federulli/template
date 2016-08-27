@@ -7,7 +7,7 @@ public class NullNode<T> implements Node<T> {
         throw new AssertionError();
     }
 
-    public T getData(){
+    public T getData() {
         throw new AssertionError();
     }
 
